@@ -50,6 +50,16 @@ header h1{
     font-family: 'Inter', sans-serif;
 
 }
+.font-size-48{
+    font-size: 48px;
+}
+.font-weight-900{
+    font-weight: 900;
+}
+.font-weight-700{
+    font-weight: 700;
+}
+
 
 .font-Merriweather{
     font-family: 'Merriweather', serif;
@@ -64,4 +74,19 @@ header h1{
 .discount-section>h1{
     color: #F00;
     font-size: 88px;
+    padding-bottom: 48px;
+}
+
+.discount-section>p{
+    font-size: 24px;
+    font-weight: 500;
+    color: #F00;
+    padding-bottom: 5px;
+}
+
+.discount-section .img{
+    max-width: 802px;
+    max-height: 500px;
+    margin: 0 auto;
+    padding-top: 48px;
 }
