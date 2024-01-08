@@ -203,6 +203,7 @@ letter-spacing: 6.04px;
 footer{
     background-color: black;
     height: 600px;
+    margin-top: 120px;
 }
 .footer-adress{
     display: flex;
@@ -251,4 +252,45 @@ footer{
 display: flex;
 color: white;
 justify-content: space-between;
+}
+
+.subscribe-section{
+    text-align: center;
+
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+.subscribe{
+    padding: 80px 0px;
+}
+.subscribe p{
+    font-size: 20px;
+    line-height: 32px;
+    padding-bottom: 48px;
+}
+.subscribe h1{
+   padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.subscribe-section img{
+    width: 150px;
+    height: 150px;
+}
+
+.subscribe input{
+    border: 0;
+    padding: 25px;
+    width: 300px;
+    border-radius: 50px 0px 0px 50px;
+    
+}
+.subscribe button{
+    border: 0;
+    padding: 25px; 
+    width: 150px;
+    border-radius: 0px 50px 50px 0px;
+    background-color: #F00;
+    color: white;
 }
