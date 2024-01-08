@@ -90,3 +90,50 @@ header h1{
     margin: 0 auto;
     padding-top: 48px;
 }
+
+.midnight-party-container{
+    background-image: url(resources/Vectorrr.png),linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00));
+    background-repeat: no-repeat;
+    background-size: 986px 400px;
+    border-radius: 5px;
+   
+
+   
+    
+   background-blend-mode: darken;
+    max-width: 1320px;
+    
+    height: 400px;
+
+}
+
+
+.btn{
+
+    border: 0;
+    background-color: transparent;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 48px;
+    margin-left: 19px;
+}
+
+.midnight-party{
+    display: flex;
+ 
+    padding: 68px 126px;
+    color: white;
+}
+.midnight-party-text{
+    max-width: 70%;
+}
+.midnight-party-text h1{
+    font-size: 64px;
+    line-height: 88px; 
+letter-spacing: 6.04px;
+}
+
+.midnight-party-img{
+    width: 349.165px;
+
+}
