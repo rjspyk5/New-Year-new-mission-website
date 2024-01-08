@@ -284,6 +284,7 @@ justify-content: space-between;
     padding: 25px;
     width: 300px;
     border-radius: 50px 0px 0px 50px;
+    font-size: 20px;
     
 }
 .subscribe button{
@@ -293,4 +294,20 @@ justify-content: space-between;
     border-radius: 0px 50px 50px 0px;
     background-color: #F00;
     color: white;
+    font-size: 20px;
+}
+
+.product div{
+    display: flex;
+}
+
+.productimg{
+    width: 420px;
+    height: 400px;
+    padding: 10px;
+    
+}
+.product-section{
+   margin-top: 100px;
+   margin-bottom: 100px;
 }
