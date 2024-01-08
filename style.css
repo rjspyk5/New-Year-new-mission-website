@@ -270,6 +270,7 @@ justify-content: space-between;
     padding-bottom: 48px;
 }
 .subscribe h1{
+    font-size: 48px;
    padding-top: 40px;
     padding-bottom: 20px;
 }
@@ -327,7 +328,7 @@ justify-content: space-between;
 }
 .holiday h1{
    
-    font-size: 72px;
+    font-size: 64px;
  
 }
 .holiday p{
