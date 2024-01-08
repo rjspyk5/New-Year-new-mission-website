@@ -307,21 +307,32 @@ justify-content: space-between;
     padding: 10px;
     
 }
-.product-section{
+.product-section,.holiday-section{
    margin-top: 100px;
    margin-bottom: 100px;
 }
 .holiday{
     text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
 }
-
+.holiday h1{
+   
+    font-size: 72px;
+ 
+}
+.holiday p{
+    line-height: 32px;
+    font-size: 20px;
+    margin-bottom: 64px;
+}
 .discountbg{
     background-image: url(resources/Rectangle\ 2.png),url(resources/Rectangle\ 1.png);
     background-position: bottom,right top;
     background-repeat: no-repeat;
     background-size: 986px 239px,410px 410px;
-    width: 986px;
-    height: 649px;
+    max-width: 986px;
+    max-height: 649px;
    
 }
 .discount50{
