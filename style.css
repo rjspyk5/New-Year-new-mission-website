@@ -301,12 +301,21 @@ justify-content: space-between;
     display: flex;
 }
 
+.bestselling{
+    margin-top: 10px;
+    margin-bottom: 38px;
+    font-size: 20px;
+    line-height: 32px;
+}
 .productimg{
     width: 420px;
     height: 400px;
     padding: 10px;
     
 }
+
+
+
 .product-section,.holiday-section{
    margin-top: 100px;
    margin-bottom: 100px;
