@@ -158,6 +158,9 @@ letter-spacing: 6.04px;
     color: #F00;
 }
 
+.red{
+    color: #F00;
+}
 .join-button{
     border: 0;
     background-color: #F00;
@@ -196,4 +199,34 @@ letter-spacing: 6.04px;
 .last-of-commingsoon-img{
     width: 70px;
     height: 70px;
+}
+footer{
+    background-color: black;
+    height: 600px;
+}
+.footer-adress{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 120px;
+    color: white;
+}
+
+.font-24{
+    font-size: 24px;
+}
+.number,.website{
+    display: flex;
+   
+
+}
+.number img,.website img{
+    width: 24px;
+    margin-right: 12px;
+    margin-top: 4px;
+   
+}
+
+.website a,.number p{
+    color: white;
+   
 }
