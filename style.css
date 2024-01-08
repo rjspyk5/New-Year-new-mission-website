@@ -311,3 +311,30 @@ justify-content: space-between;
    margin-top: 100px;
    margin-bottom: 100px;
 }
+.holiday{
+    text-align: center;
+}
+
+.discountbg{
+    background-image: url(resources/Rectangle\ 2.png),url(resources/Rectangle\ 1.png);
+    background-position: bottom,right top;
+    background-repeat: no-repeat;
+    background-size: 986px 239px,410px 410px;
+    width: 986px;
+    height: 649px;
+   
+}
+.discount50{
+   position: relative;
+    width: 220px;
+    height: 220px;
+   top: 153px;
+   left: 458px;
+
+}
+
+.gift{
+ width: 553px;
+ margin-top: -103px;
+}
+
