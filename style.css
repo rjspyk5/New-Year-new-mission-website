@@ -216,7 +216,7 @@ footer{
 }
 .number,.website{
     display: flex;
-   
+ 
 
 }
 .number img,.website img{
@@ -226,7 +226,29 @@ footer{
    
 }
 
+
 .website a,.number p{
     color: white;
    
+}
+.logoSection{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+    display: flex;
+    justify-content: center;
+    padding: 48px 0px;
+   
+}
+.logoSection img{
+    width: 64px;
+    height: 64px;
+    margin-right: 24px;
+
+}
+.copyright{
+display: flex;
+color: white;
+justify-content: space-between;
 }
