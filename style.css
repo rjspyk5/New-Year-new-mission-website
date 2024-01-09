@@ -317,10 +317,16 @@ justify-content: space-between;
     width: 420px;
     height: 400px;
     padding: 10px;
-    
+   
+}
+.productimg img:hover{
+    scale: 1.09;
+    transition: all 0.9s linear;
 }
 
-
+.font-size-38{
+    font-size: 38px;
+}
 
 .product-section,.holiday-section{
    margin-top: 100px;
